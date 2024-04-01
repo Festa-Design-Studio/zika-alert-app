@@ -1,6 +1,12 @@
+---
+description: >-
+  Welcome to the Zika Alert App project - an initiative dedicated to protecting
+  individuals from the Zika virus through real-time information and alerts.
+---
+
 # Introduction
 
-Welcome to the Zika Alert App project, an initiative dedicated to protecting individuals from the perils of Zika virus through real-time information and alerts. Behind this epic health-tech endeavor is a dedicated team from Festa Design Studio.
+Welcome to the Zika Alert App project - an initiative dedicated to protecting individuals from the Zika virus through real-time information and alerts. Behind this epic health-tech endeavour is a dedicated team from Festa Design Studio.
 
 ### About Festa Design Studio
 
@@ -12,11 +18,11 @@ Diving head-on into the Zika Alert App project, we rallied our best minds and pa
 
 #### Abayomi Ogundipe
 
-Steering the ship as the Lead UX/UI Designer, Abayomi brings a vision to life with an unmatched fervor for design that speaks, breathes, and lives to solve real-world challenges.
+Lead UX/UI Designer
 
 #### Carlos Paolos
 
-As our Assistant UX/UI Designer, Carlos juxtaposes creativity with functionality, embodying the essence of Festa's mission to forge experiences that not only resonate but also inspire action.
+Assistant UX/UI Designer
 
 Together, Abayomi and Carlos have utilized a robust toolkit to bring the Zika Alert App to fruition. From the strategic visualization on Whimsical to the intricate designs crafted in Adobe Illustrator and Figma, every tool has been leveraged to ensure that the end product is not just a tool but a lifeline.
 
