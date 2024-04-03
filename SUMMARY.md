@@ -21,11 +21,4 @@
 
 * [Information Architecture](structure-and-navigation/information-architecture.md)
 * [Wireframes](structure-and-navigation/wireframes.md)
-* [User Flows](structure-and-navigation/user-flows.md)
-
-## Interactive Prototypes
-
-* [Brand Identity](interactive-prototypes/brand-identity.md)
-* [Interaction Design](interactive-prototypes/interaction-design.md)
-* [Mockups](interactive-prototypes/mockups.md)
-* [Prototypes](interactive-prototypes/prototypes.md)
+* [App User Flow](structure-and-navigation/app-user-flow.md)
