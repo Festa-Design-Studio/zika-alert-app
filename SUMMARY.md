@@ -21,4 +21,4 @@
 
 * [Information Architecture](structure-and-navigation/information-architecture.md)
 * [Wireframes](structure-and-navigation/wireframes.md)
-* [App User Flow](structure-and-navigation/app-user-flow.md)
+* [App User Flow](structure-and-navigation/user-flows.md)
