@@ -6,7 +6,7 @@ description: >-
 
 # Introduction
 
-### Behind this epic health-tech endeavour is a dedicated team from Festa Design Studio.
+### Behind this epic health-tech endeavour is a dedicated team from <mark style="color:red;">Festa Design Studio</mark>.
 
 ### About Festa Design Studio
 
