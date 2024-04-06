@@ -12,7 +12,7 @@ coverY: 347
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/Onboarding.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Onboarding.png" alt="Zika alert app onboarding wireframe screens"><figcaption></figcaption></figure>
 
 </div>
 
@@ -22,7 +22,7 @@ View Onboarding wireframes in PDF document
 
 ### Map Screens
 
-<figure><img src="../.gitbook/assets/Map Screen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Map Screen.png" alt="Zika alert app map wireframe screens"><figcaption></figcaption></figure>
 
 View Map wireframes in PDF document
 
