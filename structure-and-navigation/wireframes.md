@@ -44,3 +44,45 @@ View Onboarding wireframes in PDF document
 View Map wireframes in PDF document
 
 {% file src="../.gitbook/assets/Map Screen.pdf" %}
+
+### Alert Screen
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Alert Screen.png" alt="" width="188"><figcaption></figcaption></figure>
+
+</div>
+
+View Alert screen wireframes in PDF document
+
+{% file src="../.gitbook/assets/Alert Screen.pdf" %}
+
+
+
+### Health Information Screens
+
+<div data-full-width="true">
+
+<figure><img src="../.gitbook/assets/Health information Screen.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+View Health Information screens wireframes in PDF document
+
+{% file src="../.gitbook/assets/Health information Screen.pdf" %}
+
+
+
+### Settings Screens
+
+<div data-full-width="true">
+
+<figure><img src="../.gitbook/assets/Settings screens.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+View Settings screens wireframes in PDF document
+
+
+
+{% file src="../.gitbook/assets/Settings screens.pdf" %}
