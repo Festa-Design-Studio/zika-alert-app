@@ -1,7 +1,8 @@
 ---
 description: >-
-  Analyzed user research data, user personas, and affinity diagram to design a
-  user journey map for the Zika alert app for each target group.
+  User journey maps for each target user group identified in the User Personas.
+  Highlight key touchpoints, experiences, pain points, and moments of
+  satisfaction.
 ---
 
 # User Journey Maps
