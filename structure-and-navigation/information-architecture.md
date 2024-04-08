@@ -3,6 +3,8 @@ description: >-
   An information architecture and sitemap for the Zika alert app that organizes
   information and enables intuitive navigation based on the user research and
   requirements.
+cover: ../.gitbook/assets/Information architect.png
+coverY: -62
 ---
 
 # Information Architecture
