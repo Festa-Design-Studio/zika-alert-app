@@ -1,7 +1,7 @@
 ---
 description: >-
   User journey maps for each target user group identified in the User Personas.
-  Highlight key touchpoints, experiences, pain points, and moments of
+  Highlighted key touchpoints, experiences, pain points, and moments of
   satisfaction.
 ---
 
@@ -19,4 +19,4 @@ Pregnant women and couples planning pregnancy
 
 User journey map for pregnant women and couples planning pregnancy. View in PDF document.
 
-{% file src="../.gitbook/assets/Pregnant women and couples planning pregnancy.pdf" %}
+{% file src="../.gitbook/assets/Pregnant women and couples planning pregnancy (1).png" %}
