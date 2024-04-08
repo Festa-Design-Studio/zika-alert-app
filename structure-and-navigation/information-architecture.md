@@ -30,14 +30,3 @@ View Content groups in PDF document.
 View Content sub-categories in PDF document.
 
 {% file src="../.gitbook/assets/Information architect.pdf" %}
-
-### Sitemap
-
-### Page Relationships
-
-* The home page is the starting point to access all main content categories
-* Location-based alerts, outdoor worker alerts, and partner alerts are related as types of alerts users can set up
-* Transmission, prevention, and pregnancy information are related as sub-topics of health information
-*   Account settings, alert settings, and app settings are related as components of overall user settings
-
-    \
