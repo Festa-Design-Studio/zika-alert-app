@@ -7,7 +7,26 @@ description: >-
 
 # App Requirements
 
-{% embed url="https://whimsical.com/app-requirements-7yJ7guRivUQvLj8hfvsffR" %}
-Functional and non-functional requirements for Zika alert app
-{% endembed %}
+### Functional Requirements
 
+<div data-full-width="true">
+
+<figure><img src="../.gitbook/assets/Functional requirements.png" alt="Zika alert app functional requirements"><figcaption><p>Zika alert app functional requirements</p></figcaption></figure>
+
+</div>
+
+View App Functional Requirements in PDF document.
+
+{% file src="../.gitbook/assets/Functional requirements.pdf" %}
+
+### Non-functional Requirements
+
+<div data-full-width="true">
+
+<figure><img src="../.gitbook/assets/Non-functional requirements.png" alt="Zika alert app non-functional requirements"><figcaption><p>Zika alert app non-functional requirements</p></figcaption></figure>
+
+</div>
+
+View App Non-Functional Requirements in PDF document.
+
+{% file src="../.gitbook/assets/Non-functional requirements.pdf" %}
