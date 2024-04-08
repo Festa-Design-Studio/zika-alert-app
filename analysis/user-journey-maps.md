@@ -10,7 +10,11 @@ description: >-
 
 Pregnant women and couples planning pregnancy
 
+<div data-full-width="true">
+
 <figure><img src="../.gitbook/assets/Pregnant women and couples planning pregnancy.png" alt="User journey map - Pregnant women and couples planning pregnancy"><figcaption><p>User journey map - Pregnant women and couples planning pregnancy</p></figcaption></figure>
+
+</div>
 
 User journey map for pregnant women and couples planning pregnancy. View in PDF document.
 
