@@ -1,18 +1,37 @@
-# Information Architecture
+---
+description: >-
+  An information architecture and sitemap for the Zika alert app that organizes
+  information and enables intuitive navigation based on the user research and
+  requirements.
+---
 
-Zika Alert App Information Architecture
+# Information Architecture
 
 ### Content groups
 
-{% embed url="https://whimsical.com/content-grouping-SkdMwdgUYtXMA8CnF6HrfS" %}
+<div data-full-width="true">
+
+<figure><img src="../.gitbook/assets/Content group.png" alt="Zika alert app content groups"><figcaption><p>Zika alert app organization and hierarchy of content</p></figcaption></figure>
+
+</div>
+
+View Content groups in PDF document.
+
+{% file src="../.gitbook/assets/Content group.pdf" %}
 
 ### Content sub-categories
 
-{% embed url="https://whimsical.com/KXcnZcX8kNS9xSuqAG5zih" %}
+<div data-full-width="true">
+
+<figure><img src="../.gitbook/assets/Information architect.png" alt="Zika alert app information architect"><figcaption><p>Zika alert app information architect</p></figcaption></figure>
+
+</div>
+
+View Content sub-categories in PDF document.
+
+{% file src="../.gitbook/assets/Information architect.pdf" %}
 
 ### Sitemap
-
-{% embed url="https://whimsical.com/sitemap-UqKCuEuR8hLNiCn1fFcLm1" %}
 
 ### Page Relationships
 
