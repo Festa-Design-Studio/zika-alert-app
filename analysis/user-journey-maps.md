@@ -6,6 +6,12 @@ description: >-
 
 # User Journey Maps
 
-{% embed url="https://whimsical.com/user-journey-maps-CtrtC7K2WrX3goVaxFqXhq" %}
-User journey maps of Zika alert app target groups
-{% endembed %}
+### User journey 1
+
+Pregnant women and couples planning pregnancy
+
+<figure><img src="../.gitbook/assets/Pregnant women and couples planning pregnancy.png" alt="User journey map - Pregnant women and couples planning pregnancy"><figcaption><p>User journey map - Pregnant women and couples planning pregnancy</p></figcaption></figure>
+
+User journey map - Pregnant women and couples planning pregnancy. View in PDF document.
+
+{% file src="../.gitbook/assets/Pregnant women and couples planning pregnancy.pdf" %}
