@@ -31,7 +31,7 @@ layout:
 
 View Onboarding wireframes in PDF document
 
-{% file src="../.gitbook/assets/Onboarding-wireframe-Zika-alert.pdf" %}
+{% file src="../.gitbook/assets/Onboarding.pdf" %}
 
 ### Map Screens
 
@@ -77,7 +77,7 @@ View Health Information screens wireframes in PDF document
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/Settings screens.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Settings screens (1).pdf" alt=""><figcaption></figcaption></figure>
 
 </div>
 
