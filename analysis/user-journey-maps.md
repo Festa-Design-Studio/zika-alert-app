@@ -41,7 +41,7 @@ User journey 3
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/Travelers.png" alt="User journey map for travelers workers"><figcaption><p>User journey map for travelers workers</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Travelers-dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Travelers.png" alt="User journey map for travelers workers"></picture><figcaption><p>User journey map for travelers workers</p></figcaption></figure>
 
 </div>
 
