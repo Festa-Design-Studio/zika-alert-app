@@ -2,16 +2,18 @@
 description: >-
   Analyzed user research data to create detailed 4 user personas for the Zika
   alert app for target groups.
-cover: ../.gitbook/assets/User Journey Map - Zika Alert App.png
-coverY: 0
 ---
 
 # User Personas
 
-{% embed url="https://whimsical.com/users-personas-GfENvPyS1Co2hMjU9ESsGi" %}
-User personas of Zika alert app target group
-{% endembed %}
+### Karen
 
-{% embed url="https://whimsical.com/user-personas-GfENvPyS1Co2hMjU9ESsGi@or4CdLRbgroT1MLdZ6D1k7u6qyfLtWTE7QHzaqBad" %}
-Karen and her husband have been talking about starting a family soon
-{% endembed %}
+User persona 1
+
+<div data-full-width="false">
+
+<figure><img src="../.gitbook/assets/Karen User Persona.png" alt="Karen User Persona"><figcaption><p>Karen User Persona</p></figcaption></figure>
+
+</div>
+
+<figure><img src="../.gitbook/assets/Karen User Persona&#x27;s interest and goals.png" alt="Karen User Persona&#x27;s interest and goals"><figcaption><p>Karen User Persona's interest and goals</p></figcaption></figure>
