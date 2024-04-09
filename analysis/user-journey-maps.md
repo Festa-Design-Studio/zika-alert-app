@@ -27,10 +27,24 @@ Outdoor worker
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/Outdoor workers.png" alt=""><figcaption><p>User journey map for outdoor workers</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Outdoor workers.png" alt="User journey map for outdoor workers"><figcaption><p>User journey map for outdoor workers</p></figcaption></figure>
 
 </div>
 
 User journey map for outdoor workers. View in PDF document.
 
 {% file src="../.gitbook/assets/Outdoor workers.pdf" %}
+
+### User journey 3
+
+Travelers
+
+<div data-full-width="true">
+
+<figure><img src="../.gitbook/assets/Travelers.png" alt="User journey map for travelers workers"><figcaption><p>User journey map for travelers workers</p></figcaption></figure>
+
+</div>
+
+User journey map for travelers workers. View in PDF document.
+
+{% file src="../.gitbook/assets/Travelers.pdf" %}
