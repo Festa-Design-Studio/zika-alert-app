@@ -11,7 +11,7 @@ description: >-
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/Content group.png" alt="Zika alert app content groups"><figcaption><p>Zika alert app organization and hierarchy of content</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Content group-dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Content group.png" alt="Zika alert app content groups"></picture><figcaption><p>Zika alert app organization and hierarchy of content</p></figcaption></figure>
 
 </div>
 
@@ -23,7 +23,7 @@ View Content groups in PDF document.
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/Information architect.png" alt="Zika alert app information architect"><figcaption><p>Zika alert app information architect</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Information architect-dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Information architect.png" alt="Zika alert app information architect"></picture><figcaption><p>Zika alert app information architect</p></figcaption></figure>
 
 </div>
 
