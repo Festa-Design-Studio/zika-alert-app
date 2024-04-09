@@ -40,4 +40,4 @@ User journey 4
 
 <figure><img src="../.gitbook/assets/Juan User Persona.png" alt="The photo used for Jose user persona is Generative AI"><figcaption><p>The photo used for Jose user persona is Generative AI</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Juan&#x27;s User Persona&#x27;s interest and goals.png" alt="Amy User Persona&#x27;s interest and goals"><figcaption><p>Amy User Persona's interest and goals</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Juan&#x27;s User Persona&#x27;s interest and goals.png" alt="Jose User Persona&#x27;s interest and goals"><figcaption><p>Jose User Persona's interest and goals</p></figcaption></figure>
