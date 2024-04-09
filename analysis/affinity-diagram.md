@@ -38,7 +38,7 @@ Synthesised key themes are;&#x20;
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/Group insights into themes.png" alt="Grouped insights into key themes"><figcaption><p>Grouped insights into themes</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Group insights into themes-dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Group insights into themes.png" alt="Grouped insights into key themes"></picture><figcaption><p>Grouped insights into themes</p></figcaption></figure>
 
 </div>
 
