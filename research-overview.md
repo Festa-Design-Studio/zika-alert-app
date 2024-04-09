@@ -74,6 +74,7 @@ The outcome of this research process will be:
 
 * A competitive analysis report, literature review
 * A report summarising key findings from survey data with actionable insights
+* A synthesised data analysis
 
 Based on research analysis:
 
