@@ -26,7 +26,11 @@ description: >-
 
 #### Competitive analysis
 
+<div data-full-width="true">
+
 <figure><picture><source srcset="../.gitbook/assets/Competitive analysis-dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Competitive analysis.png" alt="Competitive analysis"></picture><figcaption><p>Competitive analysis</p></figcaption></figure>
+
+</div>
 
 ### Grouped insights into key themes
 
