@@ -7,9 +7,9 @@ description: >-
 
 # User Journey Maps
 
-### User journey 1
+### Pregnant women / couples planning pregnancy
 
-Pregnant women and couples planning pregnancy
+User journey 1
 
 <div data-full-width="true">
 
@@ -21,9 +21,9 @@ User journey map for pregnant women and couples planning pregnancy. View in PDF 
 
 {% file src="../.gitbook/assets/Pregnant women and couples planning pregnancy.pdf" %}
 
-### User journey 2
+### Outdoor workers
 
-Outdoor worker
+User journey 2
 
 <div data-full-width="true">
 
@@ -35,9 +35,9 @@ User journey map for outdoor workers. View in PDF document.
 
 {% file src="../.gitbook/assets/Outdoor workers.pdf" %}
 
-### User journey 3
+### Travelers
 
-Travelers
+User journey 3
 
 <div data-full-width="true">
 
