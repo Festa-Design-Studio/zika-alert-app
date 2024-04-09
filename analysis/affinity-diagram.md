@@ -6,4 +6,42 @@ description: >-
 
 # Affinity Diagram
 
-{% embed url="https://whimsical.com/affinity-diagram-HTqLL83Ujs5DvAGuTL9ZCM" %}
+### Key insights
+
+#### Surveys
+
+<div data-full-width="true">
+
+<figure><img src="../.gitbook/assets/Surveys.png" alt="Surveys"><figcaption><p>Surveys</p></figcaption></figure>
+
+</div>
+
+#### Literature review
+
+<div data-full-width="true">
+
+<figure><img src="../.gitbook/assets/Literature review.png" alt="Literature review"><figcaption><p>Literature review</p></figcaption></figure>
+
+</div>
+
+#### Competitive analysis
+
+<figure><img src="../.gitbook/assets/Competitive analysis.png" alt="Competitive analysis"><figcaption><p>Competitive analysis</p></figcaption></figure>
+
+### Grouped insights into key themes
+
+Key themes are;&#x20;
+
+1. Location-specific and timely information
+2. Increasing awareness and prevention
+3. Interface and content
+
+<div data-full-width="true">
+
+<figure><img src="../.gitbook/assets/Group insights into themes.png" alt="Grouped insights into key themes"><figcaption><p>Grouped insights into themes</p></figcaption></figure>
+
+</div>
+
+View key themes in PDF document
+
+{% file src="../.gitbook/assets/Group insights into themes.pdf" %}
