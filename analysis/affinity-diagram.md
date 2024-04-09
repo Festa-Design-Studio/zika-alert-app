@@ -12,7 +12,7 @@ description: >-
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/Surveys.png" alt="Surveys"><figcaption><p>Surveys</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Surveys-dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Surveys.png" alt="Surveys"></picture><figcaption><p>Surveys</p></figcaption></figure>
 
 </div>
 
@@ -20,13 +20,13 @@ description: >-
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/Literature review.png" alt="Literature review"><figcaption><p>Literature review</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Literature review-dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Literature review.png" alt="Literature review"></picture><figcaption><p>Literature review</p></figcaption></figure>
 
 </div>
 
 #### Competitive analysis
 
-<figure><img src="../.gitbook/assets/Competitive analysis.png" alt="Competitive analysis"><figcaption><p>Competitive analysis</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Competitive analysis-dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Competitive analysis.png" alt="Competitive analysis"></picture><figcaption><p>Competitive analysis</p></figcaption></figure>
 
 ### Grouped insights into key themes
 
