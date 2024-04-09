@@ -13,7 +13,7 @@ User journey 1
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/Pregnant women and couples planning pregnancy.png" alt="User journey map - Pregnant women and couples planning pregnancy"><figcaption><p>User journey map - Pregnant women and couples planning pregnancy</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Pregnant women and couples planning pregnancy-dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Pregnant women and couples planning pregnancy.png" alt="User journey map - Pregnant women and couples planning pregnancy"></picture><figcaption><p>User journey map - Pregnant women and couples planning pregnancy</p></figcaption></figure>
 
 </div>
 
@@ -27,7 +27,7 @@ User journey 2
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/Outdoor workers.png" alt="User journey map for outdoor workers"><figcaption><p>User journey map for outdoor workers</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Outdoor workers-dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Outdoor workers.png" alt="User journey map for outdoor workers"></picture><figcaption><p>User journey map for outdoor workers</p></figcaption></figure>
 
 </div>
 
