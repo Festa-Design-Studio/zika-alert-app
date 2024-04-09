@@ -15,10 +15,10 @@
 * [Affinity Diagram](analysis/affinity-diagram.md)
 * [User Personas](analysis/user-personas.md)
 * [User Journey Maps](analysis/user-journey-maps.md)
-* [App Requirements](analysis/app-requirements.md)
 
 ## Structure & Navigation
 
+* [App Requirements](structure-and-navigation/app-requirements.md)
 * [Information Architecture](structure-and-navigation/information-architecture.md)
 * [Wireframes](structure-and-navigation/wireframes.md)
 * [App Workflow](structure-and-navigation/app-workflow.md)
