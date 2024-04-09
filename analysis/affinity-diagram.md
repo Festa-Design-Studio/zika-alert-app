@@ -30,7 +30,7 @@ description: >-
 
 ### Grouped insights into key themes
 
-Key themes are;&#x20;
+Synthesised key themes are;&#x20;
 
 1. Location-specific and timely information
 2. Increasing awareness and prevention
