@@ -77,14 +77,5 @@ The outcome of this research process will be:
 
 Based on research analysis:
 
-* Affinity diagram
-* User personas
-* User journey map
-* App requirements
-* Information architect
-* User workflow
-* Wireframes
-* Brand style
-* Mockups
-* App prototype
+* UX research report with user personas, journey maps, and development recommendations
 
