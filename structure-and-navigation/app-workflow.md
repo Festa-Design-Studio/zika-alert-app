@@ -1,6 +1,15 @@
 ---
-description: Coming soon
+description: >-
+  General workflow from start to finish specifically tailored to each target
+  groups identified in user-personas
 ---
 
-# App User Flow
+# App Workflow
 
+### Onboarding user flow
+
+<div data-full-width="true">
+
+<figure><picture><source srcset="../.gitbook/assets/onboarding-app-workflow-dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/onboarding-app-workflow.png" alt="Onboarding and signup process for users"></picture><figcaption><p>Onboarding and signup process for users</p></figcaption></figure>
+
+</div>
