@@ -22,3 +22,7 @@
 * [Information Architecture](structure-and-navigation/information-architecture.md)
 * [Wireframes](structure-and-navigation/wireframes.md)
 * [App Workflow](structure-and-navigation/app-workflow.md)
+
+## Design & Prototype
+
+* [Brand Identity](design-and-prototype/brand-identity.md)
