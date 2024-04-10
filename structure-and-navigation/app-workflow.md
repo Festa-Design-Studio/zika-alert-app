@@ -6,7 +6,7 @@ description: >-
 
 # App Workflow
 
-### Onboarding user flow
+### Onboarding flow
 
 <div data-full-width="true">
 
