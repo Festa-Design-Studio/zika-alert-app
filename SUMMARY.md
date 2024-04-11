@@ -25,4 +25,4 @@
 
 ## Design & Prototype
 
-* [Visual Identity](design-and-prototype/visual-identity.md)
+* [Visual Identity](design-and-prototype/brand-identity.md)
