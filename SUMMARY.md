@@ -11,7 +11,7 @@
 
 ## Analysis
 
-* [Synthesized data](analysis/synthesized-data.md)
+* [Synthesized Data](analysis/synthesized-data.md)
 * [Affinity Diagram](analysis/affinity-diagram.md)
 * [User Personas](analysis/user-personas.md)
 * [User Journey Maps](analysis/user-journey-maps.md)
@@ -25,4 +25,4 @@
 
 ## Design & Prototype
 
-* [Brand Identity](design-and-prototype/brand-identity.md)
+* [Visual Identity](design-and-prototype/visual-identity.md)
