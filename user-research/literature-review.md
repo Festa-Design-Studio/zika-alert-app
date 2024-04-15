@@ -24,7 +24,7 @@ layout:
 
 ### Introduction
 
-The escalation of diseases such as Zika is a major global health challenge. Awareness and prevention methods are critical in addressing the spread, particularly amongst vulnerable populations. This case study encapsulates a literature review targeting the development of a Zika Virus Alert App. The aim is to synthesize existing knowledge on Zika-related risks, preventative measures, and the importance of an effective communication strategy.
+Zika poses a significant health challenge globally. Critical are awareness and prevention, especially for vulnerable groups. This study reviews literature for a Zika Alert App, aiming to compile knowledge on Zika risks, prevention, and essential communication strategies.
 
 ### Research Objectives
 
