@@ -1,5 +1,8 @@
 ---
-description: Coming soon!
+description: >-
+  The visual identity of the Zika Alert App seamlessly combines aesthetic appeal
+  with practicality, ensuring an intuitive, easy-to-use interface that empowers
+  users in their fight against Zika
 ---
 
 # Visual Identity
@@ -27,3 +30,19 @@ The "Zika" wordmark, designed with clarity and impact in mind, represents our ap
 Around our logo, there's a buffer zone – a clear space that ensures our emblem stands out distinctly wherever it's placed, maintaining its visibility and impact.
 
 <figure><picture><source srcset="../.gitbook/assets/clear-space-dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/clear-space.png" alt="Zika alert app logo clear space"></picture><figcaption><p>Logo clear space</p></figcaption></figure>
+
+### Logo Background
+
+Our logo floats on brand colors, uncluttered space, ensuring it stands out clearly and is instantly recognizable.
+
+<figure><picture><source srcset="../.gitbook/assets/background-dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/background.png" alt="Zika alert app logo on background colors"></picture><figcaption><p>Logo on background colors</p></figcaption></figure>
+
+### Colors
+
+<figure><picture><source srcset="../.gitbook/assets/visual-color-dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/visual-color.png" alt="Zika alert app brand colors"></picture><figcaption><p>Brand colors</p></figcaption></figure>
+
+* **Pristine Oceanic:** This refreshing bluish-green symbolizes clarity and calm, mirroring the app's promise of clear, reliable information.
+* **Mediterranean Blue:** A deeper, trust-inspiring hue, used for highlights and critical alerts.
+* **Radishical:** This bright, warm red is reserved for prompting urgent action, like alert notifications.
+* **In the Dark:** A grounding, dark grey color for text ensuring optimal readability.
+* **Brilliance:** A luminous white, emanating hygiene and safety, primarily used for backgrounds and containers.
