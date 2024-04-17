@@ -46,3 +46,11 @@ Our logo floats on brand colors, uncluttered space, ensuring it stands out clear
 * **Radishical:** This bright, warm red is reserved for prompting urgent action, like alert notifications.
 * **In the Dark:** A grounding, dark grey color for text ensuring optimal readability.
 * **Brilliance:** A luminous white, emanating hygiene and safety, primarily used for backgrounds and containers.
+
+### Typography
+
+Friendly yet assertive, ensuring messages are communicated with clarity and urgency, making the app accessible to all users.
+
+
+
+<figure><picture><source srcset="../.gitbook/assets/typography-dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/typography (1).png" alt="Zika alert app type-face is SF pro"></picture><figcaption><p>SF Pro Display and SF Pro are type-faces for Zika alert app</p></figcaption></figure>
