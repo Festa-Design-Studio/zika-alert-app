@@ -19,3 +19,7 @@ User sign-up navigation experience
 View Onboarding user flow in PDF document
 
 {% file src="../.gitbook/assets/onboarding-app-workflow.pdf" %}
+
+### Workflow
+
+Coming soon!
