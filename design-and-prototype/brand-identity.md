@@ -63,6 +63,10 @@ Friendly yet assertive, ensuring messages are communicated with clarity and urge
 
 <figure><picture><source srcset="../.gitbook/assets/headline-style-dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/headline-style.png" alt="Zika alert app Headline and body style and hierarchy"></picture><figcaption><p>Headline and body style and hierarchy</p></figcaption></figure>
 
+### Iconography
+
+<figure><picture><source srcset="../.gitbook/assets/icon-dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/icon.png" alt="Zika alert app iconography"></picture><figcaption><p>Icons</p></figcaption></figure>
+
 ### Imagery
 
 Incorporates warm red in tones to show countries with countries and territories with Zika information
