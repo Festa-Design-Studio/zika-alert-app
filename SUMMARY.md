@@ -26,3 +26,4 @@
 ## Design & Prototype
 
 * [Visual Identity](design-and-prototype/brand-identity.md)
+* [Mockup](design-and-prototype/mockup.md)
