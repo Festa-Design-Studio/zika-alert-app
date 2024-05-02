@@ -10,7 +10,7 @@ Behind this epic health-tech endeavour is a dedicated team from **Festa Design S
 
 ### About Festa Design Studio
 
-We provide impactful design solutions tailored to the needs of socially-minded organizations. Our offerings span product design for non-profits and social enterprise, UX/UI design, brand strategy and identity and beyond.&#x20;
+We provide impactful design solutions tailored to the needs of socially-minded organizations. Our offerings span UX research and design, brand strategy and identity design for non-profits and social enterprises and beyond.&#x20;
 
 ### Meet Our Team
 
