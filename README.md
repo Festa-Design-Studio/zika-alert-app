@@ -12,6 +12,8 @@ Behind this epic health-tech endeavour is a dedicated team from **Festa Design S
 
 We provide impactful design solutions tailored to the needs of socially-minded organizations. Our offerings span UX research and design, brand strategy and identity design for non-profits and social enterprises and beyond.
 
+Visit [**Festa Design Studio**](https://zikaalert.festa.design)
+
 ### Our Commitment
 
 We are crafting a solution designed to tackle the Zika threat head-on. It is our promise to deliver an app that not only educates but empowers users to take proactive measures against next Zika outbreak, turning fear into awareness and awareness into action.
