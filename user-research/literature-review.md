@@ -2,12 +2,12 @@
 description: >-
   To identify any missing information from academic and medical resources that
   can help shape our problem statement and solution.
-cover: ../.gitbook/assets/zika-virus-key-facts-from-World-Health-Organisation.png
-coverY: -248.34883720930233
+cover: ../.gitbook/assets/literature-review.png
+coverY: 0
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
