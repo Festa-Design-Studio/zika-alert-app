@@ -6,20 +6,22 @@ description: >-
 
 # App Workflow
 
-### Onboarding flow
+### Sign up flow
 
-User sign-up navigation experience
+First time user sign-up navigation experience.
 
 <div data-full-width="true">
 
-<figure><picture><source srcset="../.gitbook/assets/onboarding-app-workflow-dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/onboarding-app-workflow.png" alt="Onboarding and signup process for users"></picture><figcaption><p>Onboarding and signup process for users</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/onboarding-app-workflow-dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/onboarding-app-workflow.png" alt="Onboarding and signup process for users"></picture><figcaption><p>User sign-up flow</p></figcaption></figure>
 
 </div>
 
-View Onboarding user flow in PDF document
+View registration flow in PDF document
 
-{% file src="../.gitbook/assets/onboarding-app-workflow.pdf" %}
+{% file src="../.gitbook/assets/registration-app-workflow.pdf" %}
 
-### Workflow
+### Onboarding flow
 
-Coming soon!
+First time user navigation experience.
+
+<figure><picture><source srcset="../.gitbook/assets/onboarding-flow-dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/onboarding-flow.png" alt="First time user navigation experience."></picture><figcaption><p>User onboarding Zika alert app</p></figcaption></figure>
