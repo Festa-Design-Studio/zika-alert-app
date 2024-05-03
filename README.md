@@ -2,6 +2,8 @@
 description: >-
   Welcome to the Zika Alert App project - an initiative dedicated to protecting
   individuals from the Zika virus through real-time information and alerts.
+cover: .gitbook/assets/introduction-zika.png
+coverY: 0
 ---
 
 # Introduction
