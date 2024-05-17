@@ -14,7 +14,7 @@ Behind this epic health-tech endeavor is **Festa Design Studio**.
 
 We provide impactful design solutions tailored to the needs of socially-minded organizations. Our offerings span UX research and design, brand strategy and identity design for non-profits and social enterprises and beyond.
 
-Visit [**Festa Design Studio**](https://zikaalert.festa.design)
+Visit [**Festa Design Studio**](https://festa.design/)
 
 ### Our Commitment
 
