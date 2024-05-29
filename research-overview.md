@@ -62,11 +62,11 @@ To identify any missing information from academic and medical resources that can
 
 #### Competitive Analysis
 
-To understand how other apps in this space provide alerts and how users interact with these apps
+To understand how other apps in this space provide alerts and how users interact with these apps.
 
 #### Surveys
 
-To identify any missing information from academic and medical resources that can help shape our problem statement and solution
+To get a broad sense of user behaviors and to identify prevalent patterns and attitudes.
 
 ### Deliverables
 
